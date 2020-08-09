@@ -28,7 +28,7 @@ Currently I am open to any opportunity especially in IT as a Backend Engineer (R
 
 ### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/muhammad-rizki-akbar-69220316b" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-rizki-akbar-69220316b" target="blank"><img src="https://img.shields.io/badge/M_Rizki_Akbar?style=flat&logo=linkedin" /></a>
 </p>
 
 <!--
