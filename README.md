@@ -6,7 +6,7 @@ Currently I am open to any opportunity especially in IT as a Backend Engineer (R
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Code-Ruby-red?&logo=ruby&logoColor=red" />
     <img src="https://img.shields.io/badge/Code-Php-purple?&logo=php" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Vim-blue?&logo=vim&logoColor=green" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Vim-green?&logo=vim&logoColor=green" />
     <img src="https://gpvc.arturio.dev/muhrizkiakbar" />
 </p>
 
